@@ -4,6 +4,7 @@ import App from './App.jsx'
 import Tamim from './Tamim.jsx'
 import Homepage from './Homepage.jsx'
 import Navigation from './component/Navagation.jsx'
+import Footer from './component/Footer.jsx'
 // import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -17,6 +18,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Navigation/>
 
     <Navigation/>
+
+
+    <Footer></Footer>
 
   </React.StrictMode>,
 )
