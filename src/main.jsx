@@ -21,6 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 
     <Footer></Footer>
+    <Footer></Footer>
 
   </React.StrictMode>,
 )
